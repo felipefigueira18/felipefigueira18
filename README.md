@@ -62,7 +62,7 @@ Desenvolvo produtos web escaláveis, plataformas interativas e sistemas modernos
 
 ---
 
-## 📊 Estatísticas
+##  Estatísticas
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=felipefigueira18&show_icons=true)
 
