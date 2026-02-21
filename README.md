@@ -65,12 +65,6 @@ Desenvolvo produtos web escaláveis, plataformas interativas e sistemas modernos
 ## Estatísticas
 
 
-  <img 
-    height="170" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipefigueira18&layout=compact&theme=tokyonight&hide_border=true"
-  />
-</p>
-
 <p align="left">
   <img 
     height="170" 
