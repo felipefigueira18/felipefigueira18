@@ -64,9 +64,23 @@ Desenvolvo produtos web escaláveis, plataformas interativas e sistemas modernos
 
 ## Estatísticas
 
-![Stats](https://github-readme-stats.vercel.app/api?username=felipefigueira18&show_icons=true&theme=tokyonight&cache_seconds=86400)
+<p align="left">
+  <img 
+    height="170" 
+    src="https://github-readme-stats.vercel.app/api?username=felipefigueira18&show_icons=true&theme=tokyonight&hide_border=true"
+  />
+  <img 
+    height="170" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipefigueira18&layout=compact&theme=tokyonight&hide_border=true"
+  />
+</p>
 
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipefigueira18&layout=compact&theme=tokyonight&cache_seconds=86400)
+<p align="left">
+  <img 
+    height="170" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=felipefigueira18&theme=tokyonight&hide_border=true"
+  />
+</p>
 
 ---
 ## Obrigado por visitar meu perfil!
