@@ -11,12 +11,16 @@ Desenvolvo produtos web escaláveis, plataformas interativas e sistemas modernos
 
 ---
 
-##  Onde me encontrar
+## Onde me encontrar
 
 <div align="left">
 
 <a href="https://linkedin.com/in/felipe-oliveira-979b79267" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:felipefoliveira42@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Enviar_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
