@@ -1,80 +1,136 @@
-#  👋 Olá, eu sou Felipe Figueira
+<div align="center">
+
+# 👨🏻‍💻 Felipe Figueira
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&color=6C63FF&center=true&vCenter=true&width=500&lines=Desenvolvedor Front-End" />
 
-Meu nome é Felipe Figueira, tenho 20 anos e sou formado no curso técnico em Informática para Internet pela Escola Politécnica Brasileira.  
-Atualmente, curso Ciência da Computação na Universidade Paulista.
+<br>
 
-
-Desenvolvo produtos web escaláveis, plataformas interativas e sistemas modernos com foco em performance, organização e boas práticas.
-
-
----
-
-## Onde me encontrar
-
-<div align="left">
-
-<a href="https://linkedin.com/in/felipe-oliveira-979b79267" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:felipefoliveira42@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://linkedin.com/in/felipe-oliveira-979b79267">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
 
+---
+
+## 🚀 Sobre mim
+
+Meu nome é Felipe Figueira, tenho 20 anos e sou formado no curso técnico em Informática para Internet pela Escola Politécnica Brasileira.  
+Atualmente, curso Ciência da Computação na Universidade Paulista.
+
+Sou apaixonado por tecnologia e focado em evoluir continuamente através do desenvolvimento de projetos práticos e soluções web modernas.
+
+
 
 ---
 
-##  O que eu faço
+### 🤖 Linguagens e Tecnologias
 
-*  Desenvolvimento de aplicações web
-*  Otimização de performance
-*  Arquitetura e organização de projetos
-*  Integração com APIs
-*  Dashboards e visualização de dados
-*  Automação e soluções web
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Next.js" 
+    title="Next.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Bootstrap"
+    title="Bootstrap" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Tailwind" 
+    title="Tailwind"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+/>
 
----
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
 
-##  Tecnologias
+<img 
+    align="left" 
+    alt="JQuery" 
+    title="JQuery"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
 
-### Frontend
-
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge\&logo=javascript\&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge\&logo=tailwindcss)
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge\&logo=csharp)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql)
-
-### DevOps & Ferramentas
+<br/>
+<br/>
 
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma)
+ Obrigado por visitar meu perfil!
 
----
+</div>
 
-## Estatísticas
-
-
-<p align="left">
-  <img 
-    height="170" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=felipefigueira18&theme=tokyonight&hide_border=true"
-  />
-</p>
-
----
-## Obrigado por visitar meu perfil!
