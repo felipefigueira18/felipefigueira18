@@ -1,6 +1,6 @@
 #  👋 Olá, eu sou Felipe Figueira
 
- **Desenvolvedor Front-End | Estudante de Ciência da Computação**
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&color=6C63FF&center=true&vCenter=true&width=500&lines=Desenvolvedor Front-End" />
 
 Meu nome é Felipe Figueira, tenho 20 anos e sou formado no curso técnico em Informática para Internet pela Escola Politécnica Brasileira.  
 Atualmente, curso Ciência da Computação na Universidade Paulista.
