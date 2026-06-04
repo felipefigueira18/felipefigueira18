@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou Felipe Figueira
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&color=6C63FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+Front-End;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Criando+solu%C3%A7%C3%B5es+atrav%C3%A9s+da+tecnologia" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&color=6C63FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+Front-End;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o" />
 
 <br>
 
@@ -14,9 +14,9 @@
 
 ## 🚀 Sobre Mim
 
-Meu nome é **Felipe Figueira**, tenho **21 anos** e sou formado no curso técnico em **Informática para Internet** pela Escola Politécnica Brasileira.
+Meu nome é Felipe Figueira, tenho 21 anos e sou formado no curso técnico em Informática para Internet pela Escola Politécnica Brasileira.
 
-Atualmente curso **Ciência da Computação** na Universidade Paulista.
+Atualmente curso Ciência da Computação na Universidade Paulista.
 
 Tenho interesse em desenvolvimento web, interfaces modernas, integração de sistemas e criação de soluções que unem tecnologia, desempenho e boa experiência para o usuário.
 
@@ -94,14 +94,14 @@ Tenho interesse em desenvolvimento web, interfaces modernas, integração de sis
 
 ## 🎯 Objetivo
 
-Continuar evoluindo como desenvolvedor, criando soluções eficientes, escaláveis e modernas para resolver problemas reais através da tecnologia.
+Busco uma oportunidade de estágio na área para aplicar meus conhecimentos, adquirir experiência prática e continuar evoluindo profissionalmente.
+
+Meu objetivo é atuar no desenvolvimento de aplicações modernas, contribuindo com soluções eficientes e aprendendo continuamente novas tecnologias e boas práticas do mercado.
 
 ---
 
 <div align="center">
 
 ### ⭐ Obrigado por visitar meu perfil!
-
-Sempre aberto a novas oportunidades, conexões e projetos.
 
 </div>
