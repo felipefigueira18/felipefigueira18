@@ -14,7 +14,7 @@
 
 ## 🚀 Sobre Mim
 
-Meu nome é Felipe Figueira, tenho 21 anos e sou formado no curso técnico em Informática para Internet pela Escola Politécnica Brasileira.
+Meu nome é Felipe Figueira de Oliveira, tenho 21 anos e sou formado no curso técnico em Informática para Internet pela Escola Politécnica Brasileira.
 
 Atualmente curso Ciência da Computação na Universidade Paulista.
 
