@@ -1,67 +1,94 @@
+<div align="center">
+
 # 👋 Olá, eu sou Felipe Figueira
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&color=6C63FF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Front-End" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&color=6C63FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+Front-End;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Criando+solu%C3%A7%C3%B5es+atrav%C3%A9s+da+tecnologia" />
 
-Meu nome é Felipe Figueira, tenho 20 anos e sou formado no curso técnico em Informática para Internet pela Escola Politécnica Brasileira.
+<br>
 
-Atualmente, curso Ciência da Computação na Universidade Paulista.
+<img src="https://komarev.com/ghpvc/?username=felipefigueira18&label=VISITAS+NO+PERFIL&color=6C63FF&style=for-the-badge" />
 
-Desenvolvo produtos web, plataformas interativas e sistemas modernos com foco em performance, organização e boas práticas.
+</div>
+
+---
+
+## 🚀 Sobre Mim
+
+Meu nome é **Felipe Figueira**, tenho **21 anos** e sou formado no curso técnico em **Informática para Internet** pela Escola Politécnica Brasileira.
+
+Atualmente curso **Ciência da Computação** na Universidade Paulista.
+
+Tenho interesse em desenvolvimento web, interfaces modernas, integração de sistemas e criação de soluções que unem tecnologia, desempenho e boa experiência para o usuário.
 
 ---
 
 ## 📍 Onde me encontrar
 
-<div align="left">
+<div align="center">
 
 <a href="https://linkedin.com/in/felipe-oliveira-979b79267" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:felipefoliveira42@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## 🚀 O que eu faço
+## 💼 O que eu faço
 
-* Desenvolvimento de aplicações web
-* Otimização de performance
-* Integração com APIs
-* Dashboards e visualização de dados
-* Automação e soluções web
-* Interfaces modernas e responsivas
+✔ Desenvolvimento de aplicações web
+
+✔ Integração com APIs
+
+✔ Criação de dashboards interativos
+
+✔ Interfaces modernas e responsivas
+
+✔ Otimização de performance
+
+✔ Automação e soluções web
 
 ---
 
 ## 💻 Tecnologias
 
+<div align="center">
+
 ### Frontend
 
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge\&logo=javascript\&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge\&logo=tailwindcss)
+<img src="https://skillicons.dev/icons?i=js,ts,react,tailwind" />
+
+<br><br>
 
 ### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge\&logo=csharp)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
+<img src="https://skillicons.dev/icons?i=nodejs,cs,mysql" />
+
+</div>
 
 ---
 
 ## 📊 Estatísticas
 
-<p align="left">
-  <img 
-    height="170" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=felipefigueira18&theme=tokyonight&hide_border=true"
-  />
-</p>
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=felipefigueira18&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=felipefigueira18&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipefigueira18&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
@@ -71,4 +98,10 @@ Continuar evoluindo como desenvolvedor, criando soluções eficientes, escaláve
 
 ---
 
-## Obrigado por visitar meu perfil!
+<div align="center">
+
+### ⭐ Obrigado por visitar meu perfil!
+
+Sempre aberto a novas oportunidades, conexões e projetos.
+
+</div>
