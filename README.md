@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá, eu sou Felipe Oliveira
+# 👋 Olá, eu sou Felipe Figueira
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&color=6C63FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+Front-End;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o" />
 
@@ -14,7 +14,7 @@
 
 ## 🚀 Sobre Mim
 
-Meu nome é Felipe Oliveira, tenho 21 anos e sou formado no curso técnico em Informática para Internet pela Escola Politécnica Brasileira.
+Meu nome é Felipe Fugueira, tenho 21 anos e sou formado no curso técnico em Informática para Internet pela Escola Politécnica Brasileira.
 
 Atualmente curso Ciência da Computação na Universidade Paulista.
 
@@ -94,7 +94,7 @@ Tenho interesse em desenvolvimento web, interfaces modernas, integração de sis
 
 ## 🎯 Objetivo
 
-Busco uma oportunidade de estágio na área de desenvolvimento de software para aplicar meus conhecimentos, adquirir experiência prática e continuar evoluindo profissionalmente.
+Busco uma oportunidade de estágio para aplicar meus conhecimentos, adquirir experiência prática e continuar evoluindo profissionalmente.
 
 Meu objetivo é atuar no desenvolvimento de aplicações modernas, contribuindo com soluções eficientes e aprendendo continuamente novas tecnologias e boas práticas do mercado.
 
