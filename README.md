@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá, eu sou Felipe Figueira
+# 👋 Olá, eu sou o Felipe Figueira
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&color=6C63FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+Front-End;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o" />
 
