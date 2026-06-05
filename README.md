@@ -60,13 +60,13 @@ Tenho interesse em desenvolvimento web, interfaces modernas, integração de sis
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind" />
+<img src="https://skillicons.dev/icons?i=js,ts,angular,nextjs,tailwind" />
 
 <br><br>
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,cs,mysql" />
+<img src="https://skillicons.dev/icons?i=nodejs,java,cs,mysql" />
 
 </div>
 
